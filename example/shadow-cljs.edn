@@ -1,0 +1,19 @@
+{:source-paths
+ ["src"]
+
+ :dependencies
+ [[reagent "1.0.0"]
+  [re-echarts "5.0.2"]]
+
+ :builds
+ {:app {:target :browser
+        :output-dir "public/js"
+        :asset-path "/js"
+
+        :modules
+        {:main
+         {:entries [starter.browser]}}
+
+        :devtools
+        {:http-root "public"
+         :http-port 8020}}}}
