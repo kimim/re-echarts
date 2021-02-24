@@ -1,4 +1,4 @@
-[[[[https://clojars.org/re-echarts]]][https://clojars.org/re-echarts/latest-version.svg]]
+[[https://clojars.org/re-echarts][https://clojars.org/re-echarts/latest-version.svg]]
 
 Example project: [[./example]]
 
