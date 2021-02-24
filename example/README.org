@@ -12,4 +12,4 @@ Watch cljs:
 shadow-cljs watch app
 #+end_src
 
-Visit: http://localhost:8020
+Visit: [[http://localhost:8020][http://localhost:8020]]
