@@ -1,0 +1,15 @@
+Run a server:
+
+#+begin_src shell
+git clone https://github.com/kimim/re-echarts
+cd re-echarts/example
+shadow-cljs server
+#+end_src
+
+Watch cljs:
+
+#+begin_src shell
+shadow-cljs watch app
+#+end_src
+
+Visit: http://localhost:8020
