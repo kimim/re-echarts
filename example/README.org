@@ -1,3 +1,5 @@
+This example is modified from [[https://github.com/shadow-cljs/quickstart-browser]]
+
 Run a server:
 
 #+begin_src shell
@@ -12,4 +14,4 @@ Watch cljs:
 shadow-cljs watch app
 #+end_src
 
-Visit: [[http://localhost:8020][http://localhost:8020]]
+Visit: [[http://localhost:8020]]
