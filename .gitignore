@@ -1,2 +1,8 @@
 target
 pom.xml
+.lsp
+.nrepl-port
+.shadow-cljs/
+node_modules/
+package-lock.json
+*/public/js/

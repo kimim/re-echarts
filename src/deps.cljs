@@ -1,1 +1,1 @@
-{:npm-deps {"echarts" "5.0.2"}}
+{:npm-deps {"echarts" "5.1.1"}}

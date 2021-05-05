@@ -1,6 +1,6 @@
 #!/bin/sh
 # move jar to local repo for testing purpose
-export version=5.0.2
+export version=5.1.1
 lein jar
 lein pom
 lein localrepo install target/re-echarts-$version.jar re-echarts $version

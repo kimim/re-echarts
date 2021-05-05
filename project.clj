@@ -1,4 +1,4 @@
-(defproject re-echarts/re-echarts "5.0.2"
+(defproject re-echarts/re-echarts "5.1.1"
   :description "React ECharts wrapper in ClojureScript"
   :url "https://github.com/kimim/re-echarts"
 
@@ -15,4 +15,8 @@
               :sign-releases false}}
 
   :source-paths
-  ["src"])
+  ["src"]
+
+  :plugins
+  [[lein-localrepo "0.5.4"]]
+  )

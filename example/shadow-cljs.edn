@@ -3,7 +3,7 @@
 
  :dependencies
  [[reagent "1.0.0"]
-  [re-echarts "5.0.2"]]
+  [re-echarts "5.1.1"]]
 
  :builds
  {:app {:target :browser
