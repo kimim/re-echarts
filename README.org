@@ -1,5 +1,6 @@
 [[https://clojars.org/re-echarts][https://clojars.org/re-echarts/latest-version.svg]]
-[[https://www.npmjs.com/package/echarts][https://img.shields.io/npm/v/echarts]]
+
+[[https://www.npmjs.com/package/echarts][https://img.shields.io/npm/v/echarts.svg]]
 
 Example project: [[./example]]
 
