@@ -1,4 +1,4 @@
-(defproject re-echarts/re-echarts "5.1.1"
+(defproject re-echarts/re-echarts "5.2.1"
   :description "React ECharts wrapper in ClojureScript"
   :url "https://github.com/kimim/re-echarts"
 
@@ -7,8 +7,8 @@
 
   :dependencies
   ;; always use "provided" for Clojure(Script)
-  [[org.clojure/clojurescript "1.10.520" :scope "provided"]
-   [reagent "1.0.0"]]
+  [[org.clojure/clojurescript "1.10.866" :scope "provided"]
+   [reagent "1.1.0"]]
 
   :repositories
   {"clojars" {:url "https://clojars.org/repo"

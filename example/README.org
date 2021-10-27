@@ -1,16 +1,22 @@
 This example is modified from [[https://github.com/shadow-cljs/quickstart-browser]]
 
-Run a server:
+Install deps:
 
-#+begin_src shell
+#+begin_src sh
 git clone https://github.com/kimim/re-echarts
 cd re-echarts/example
+npm install
+#+end_src
+
+Run a server:
+
+#+begin_src sh
 shadow-cljs server
 #+end_src
 
 Watch cljs:
 
-#+begin_src shell
+#+begin_src sh
 shadow-cljs watch app
 #+end_src
 

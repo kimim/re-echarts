@@ -34,3 +34,10 @@ Example project: [[./example]]
 (defn ^:dev/before-load stop []
   (js/console.log "stop"))
 #+end_src
+
+* Deps:
+- https://github.com/thheller/shadow-cljs
+- https://clojurescript.org/news/news
+- https://github.com/facebook/react
+- https://github.com/reagent-project/reagent
+- https://github.com/apache/echarts
